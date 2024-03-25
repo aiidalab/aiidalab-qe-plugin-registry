@@ -1,0 +1,9 @@
+aiida-bader:
+  code_home: https://github.com/superstar54/aiida-bader
+  documentation_url: https://aiida-bader.readthedocs.io/
+  pip_url: aiida-bader
+
+
+aiidalab-qe-vibroscopy
+  code_home: https://github.com/mikibonacci/aiidalab-qe-vibroscopy
+
