@@ -14,5 +14,3 @@ aiidalab-qe-muon:
   description: Plugin to compute muon stopping sites and related properties via the aiida-muon and aiida-musconv AiiDA plugins
   author: Miki Bonacci
   github: https://github.com/mikibonacci/aiidalab-qe-muon
-
-
